@@ -1,0 +1,7 @@
+1. super(props) is missing in constructor 
+
+2. bind() is missing for passing the data as an argument to the function of a class based component
+
+3. there is an extra '}' in h2 , 1st from the right side in h2.
+
+4.must use createRef or useRef 
